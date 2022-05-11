@@ -1,7 +1,6 @@
 .gitb/
 .idea/
 log/
-*.zip
 *.pyc
 *.html
 *.cache
