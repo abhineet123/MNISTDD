@@ -33,7 +33,7 @@ Each set comprises 3 `.npy` files which can each be read using `numpy.load()` to
 -  `{SET_NAME}_Y.npy`: 2D matrix with dimension [N, 2] and containing the labels. Note that the labels are always in ascending order in each row.
 - ` {SET_NAME}_bboxes.npy`: 3D matrix with dimension [N, 2, 4] and containing the bounding boxes. For more information, see the description of bounding boxes above.
 
-For example, following are the dimensions of the numpy.ndarray in 3 files of the train set:
+For example, following are the dimensions of the `numpy.ndarray` in 3 files of the train set:
 
 - `train_X.npy`: [55000, 4096]
 - `train_Y.npy`: [55000, 2]
