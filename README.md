@@ -1,6 +1,6 @@
 <!-- No Heading Fix -->
 
-# MNIST Double Digit Dataset
+# MNIST Double Digits Dataset
 
 ## Overview
 
